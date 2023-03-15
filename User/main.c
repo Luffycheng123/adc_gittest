@@ -15,7 +15,7 @@ int main(void)
 		OLED_ShowString(3,1,"Hello");
 		OLED_ShowUnsignNum(4,2,100,5);
 
-
+		//so the gitname must be origin 
 
 
 		OLED_ShowString(3,1,"Hello");
