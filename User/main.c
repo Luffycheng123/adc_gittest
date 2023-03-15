@@ -22,6 +22,10 @@ int main(void)
 		OLED_ShowUnsignNum(2,1,AD_GetValue(),5);
 		OLED_ShowString(3,1,"Hello");
 		OLED_ShowUnsignNum(4,2,100,5);
+		
+		OLED_ShowString(3,1,"Hello");
+		OLED_ShowUnsignNum(4,2,100,5);
+		
   }
 }
 
